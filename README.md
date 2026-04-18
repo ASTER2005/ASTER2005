@@ -4,11 +4,11 @@
 
 🎯 AI/ML Developer | LLM & Intelligent Systems Builder
 
-I’m passionate about building AI systems that solve real-world problems and go beyond basic predictions to deliver intelligent, actionable outcomes. My work focuses on designing end-to-end AI solutions—from model development to deployment—with a strong emphasis on real-world impact.
+I’m passionate about **building AI systems that solve real-world problems** and go beyond basic predictions to deliver __intelligent, actionable outcomes__. My work focuses on designing end-to-end AI solutions from model development to deployment—with a strong emphasis on real-world impact.
 
-I enjoy combining machine learning with cybersecurity to create systems that not only detect threats but actively prevent them. Alongside this, I’ve worked on AI-driven applications like voice authentication systems, anomaly detection models, and intelligent automation tools.
+I enjoy combining **machine learning with cybersecurity to create systems that not only detect threats but actively prevent them**. Alongside this, I’ve worked on __AI-driven applications__ like voice authentication systems, anomaly detection models, and intelligent automation tools.
 
-🚀 Currently, I’m focused on:
+🚀 __Currently, I’m focused on:__
 
 - Advanced Machine Learning & Model Optimization
 - Large Language Models (LLMs) & AI Agents
@@ -17,7 +17,7 @@ I enjoy combining machine learning with cybersecurity to create systems that not
 - Voice & Behavioral Biometrics using AI
 - Building Scalable, Production-Ready AI Systems
 
-💡 I’m always exploring new AI advancements and building projects that push the boundary between research and real-world applications.
+💡 I’m always exploring new **AI advancements** and building projects that push the boundary between **research and real-world applications**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ast_er2005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ast_er2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankan-sarkar-391005325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankan28aug@gmail.com) 
